@@ -1,3 +1,4 @@
+//https://informatics.msk.ru/moodle/mod/statements/view3.php?chapterid=355&run_id=80r174051
 #include <iostream>
 using namespace std;
 int main()
